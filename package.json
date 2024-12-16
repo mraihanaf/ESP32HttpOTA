@@ -1,0 +1,12 @@
+{
+  "name": "esp32httpota",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mraihanaf/ESP32HttpOTA.git",
+  "author": "mraihanaf <mraihanaf0@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "./server"
+  ]
+}
